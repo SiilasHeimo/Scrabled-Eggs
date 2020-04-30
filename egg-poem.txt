@@ -10,3 +10,5 @@ An edit: Eggs comes in many shapes and sizes, such as: whole, big, normal and cl
 An another edit: Eggs contains nutriens and also more eggs.
 
 yooooooooooooooo end
+
+Watch out for merge conflict or something like that.
